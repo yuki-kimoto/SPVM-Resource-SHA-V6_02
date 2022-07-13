@@ -1,0 +1,3 @@
+class TestCase::Resource::SHA::V6_02 {
+  native static method test : int ();
+}
